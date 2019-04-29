@@ -10,3 +10,8 @@ header nav {
     display: flex;
     justify-content: flex-end;
 }
+
+h1 {
+    font-size: 6em;
+    margin-top: 2em;
+}
