@@ -1,13 +1,5 @@
 body {
     font-family: 'Wendy One', sans-serif;
     text-align: center;
-}
-
-.page-title {
-    border: 5px solid #000;
-    text-align: center;
-    font-weight: 100;
-}
-.radio-gallery {
-    position: center;
+    margin: 2em;
 }
