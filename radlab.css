@@ -3,12 +3,11 @@ body {
 }
 
 header {
-    padding: 2em;
+    padding: 5em;
 }
 
 header nav {
-    display: flex;
-    justify-content: flex-end;
+    display: inline;
 }
 
 h1 {
