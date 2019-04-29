@@ -1,7 +1,10 @@
 body {
     font-family: 'Wendy One', sans-serif;
-    text-align: center;
     margin: 2em;
+}
+
+header {
+    padding: 5em;
 }
 
 header nav {
