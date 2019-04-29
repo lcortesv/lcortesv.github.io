@@ -1,12 +1,11 @@
 body {
     font-family: 'Wendy One', sans-serif;
-    margin: 2em;
 }
 
 header {
-    padding: 5em;
+    padding: 2em;
 }
 
 header nav {
-    display: flex;
+    float: right;
 }
