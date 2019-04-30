@@ -67,7 +67,14 @@ h1 {
     padding-right: 2em;
 }
 
-.box .content {
-    //padding-left: 20px;
-    text-align: justify;
+.box-two {
+    padding: 2em;
+    box-sizing: border-box;
+    background: #ffd746;
+    border-radius: 1em;
+    display: flex;
+}
+
+.box-two .episode-image-two {
+    padding-left: 2em;
 }
