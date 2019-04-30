@@ -90,3 +90,24 @@ h1 {
     padding-top: 10em;
     padding-bottom: 10em;
 }
+
+
+.funfac {
+    display: flex;
+    margin: 5em;
+    border: dashed #0037ff;
+}
+
+.funfac .funpic {
+    padding-left: 3em;
+}
+
+.funfac-two {
+    display:flex;
+    margin: 5em;
+    border: dashed #0037ff;
+}
+
+.funfac-two .funpic-two {
+    padding-right: 3em;
+}
