@@ -1,6 +1,6 @@
 body {
     font-family: 'Wendy One', sans-serif;
-    background-color: #FECD79;
+    background-color: #ffa500;
 }
 
 header {
@@ -45,6 +45,6 @@ h1 {
 
 .about {
     text-align: center;
-    padding-top: 6em;
+    padding-top: 10em;
     padding-bottom: 2em;
 }
