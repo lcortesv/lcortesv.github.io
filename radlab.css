@@ -56,10 +56,9 @@ h1 {
 }
 
 .episode {
-    display: flex;
+    display: inline;
 }
 
 .episode-image {
-  margin-right: 5em;
-  display: flex-start;
+  vertical-align: middle;
 }
