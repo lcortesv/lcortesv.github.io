@@ -59,3 +59,8 @@ h1 {
 .episode-image-one {
     text-align: center;
 }
+
+.episode-image,
+.episode {
+    display: inline block;
+}
