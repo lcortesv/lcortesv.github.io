@@ -111,3 +111,13 @@ h1 {
 .funfac-two .funpic-two {
     padding-right: 3em;
 }
+
+.fun-content {
+    padding-left: 3em;
+    text-align: justify;
+}
+
+.fun-content-two {
+    padding-right: 3em;
+    text-align: justify;
+}
