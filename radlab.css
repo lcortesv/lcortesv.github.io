@@ -1,5 +1,4 @@
 body {
-    padding: 1em;
     font-family: 'Wendy One', sans-serif;
 }
 
@@ -21,6 +20,7 @@ h1 {
     font-size: 4em;
     margin: 0;
     text-align: center;
+    padding: 2em;
 }
 
 .image-one {
