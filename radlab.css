@@ -55,10 +55,7 @@ h1 {
     text-align: center;
 }
 
-.episode {
-    display: inline;
-}
-
 .episode-image {
-  vertical-align: middle;
+  display: flex;
+  justify-content: center;
 }
