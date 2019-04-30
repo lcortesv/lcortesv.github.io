@@ -53,6 +53,7 @@ h1 {
 
 .episode-image-one {
     text-align: center;
+    padding-bottom: 5em;
 }
 
 .box {
@@ -77,4 +78,9 @@ h1 {
 
 .box-two .episode-image-two {
     padding-left: 2em;
+}
+
+.episode-sum {
+    padding-top: 5em;
+    padding-bottom: 5em;
 }
