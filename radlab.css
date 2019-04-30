@@ -58,7 +58,7 @@ h1 {
 .box {
     padding: 3em;
     box-sizing: border-box;
-    background: #fff;
+    background: #FFAE46;
     border-radius: 4px;
     display: flex;
 }
