@@ -62,3 +62,7 @@ h1 {
     border-radius: 4px;
     display: flex;
 }
+
+.box content {
+    margin-left: 2em;
+}
