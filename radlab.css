@@ -6,6 +6,11 @@ header {
     margin: 0;
 }
 
+header .row {
+  display: flex;
+  align-items: center;
+}
+
 header nav {
     display: flex;
     justify-content: center;
