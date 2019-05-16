@@ -4,6 +4,14 @@ body {
 
 .title-name {
     font-family: 'Montserrat', sans-serif;
-    font-size: 10em;
+    color: #ff6422;
+    font-size: 5em;
+    text-align: center;
+}
+
+.sub-title {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: #595959;
+    font-size: 3em;
     text-align: center;
 }
