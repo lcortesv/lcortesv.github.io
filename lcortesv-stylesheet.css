@@ -15,3 +15,10 @@ body {
     font-size: 3em;
     text-align: center;
 }
+
+.title-display {
+    padding: 3em;
+    box-sizing: border-box;
+    background: #ffffff;
+    display: flex;
+}
