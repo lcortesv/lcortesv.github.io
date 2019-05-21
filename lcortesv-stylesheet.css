@@ -2,23 +2,21 @@ body {
     background-color: #d9d2e9;
 }
 
-.cover {
-    align-items: center;
+.jumbotron {
     display: flex;
+    align-items: center;
     background-image: url("images/backgroundweb.jpg");
     background-size: cover;
 }
 
-.cover h1 {
-    text-align: center;
+.jumbotron h1 {
     font-family: 'Montserrat', sans-serif;
     color: #ff6422;
     font-size: 5em;
     margin: 0;
 }
 
-.cover h2 {
-    text-align: center;
+.jumbotron h2 {
     font-family: 'Montserrat Subrayada', sans-serif;
     color: #595959;
     font-size: 3em;
