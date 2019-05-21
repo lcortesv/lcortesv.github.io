@@ -9,7 +9,7 @@ body {
     background-size: cover;
 }
 
-.title-name {
+.cover h1 {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     color: #ff6422;
@@ -17,7 +17,7 @@ body {
     margin: 0;
 }
 
-.sub-title {
+.cover h2 {
     text-align: center;
     font-family: 'Montserrat Subrayada', sans-serif;
     color: #595959;
