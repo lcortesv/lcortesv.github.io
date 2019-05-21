@@ -4,6 +4,7 @@ body {
 
 .cover {
     align-items: center;
+    display: flex;
     background-image: url("images/backgroundweb.jpg");
     background-size: cover;
 }
