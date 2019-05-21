@@ -3,6 +3,7 @@ body {
 }
 
 .cover {
+    align-items: center;
     display: flex;
     background-image: url("images/backgroundweb.jpg");
     background-size: cover;
@@ -25,7 +26,6 @@ body {
 }
 
 .title-display {
-    align-items: center;
     margin: 5em;
     padding: 3em;
     box-sizing: border-box;
