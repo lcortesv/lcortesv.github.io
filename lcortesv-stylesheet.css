@@ -26,6 +26,7 @@ body {
 }
 
 .title-display {
+    margin: 5em;
     padding: 3em;
     box-sizing: border-box;
     background: #ffffff;
