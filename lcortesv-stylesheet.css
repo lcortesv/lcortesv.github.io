@@ -22,11 +22,10 @@ body {
     font-family: 'Montserrat Subrayada', sans-serif;
     color: #595959;
     font-size: 3em;
-    margin: 0 0 2em;
+    margin: 0 0 4em;
 }
 
 .title-display {
-    margin: 5em;
     padding: 3em;
     box-sizing: border-box;
     background: #ffffff;
