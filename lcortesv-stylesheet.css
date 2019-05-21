@@ -1,7 +1,11 @@
 body {
     background-color: #d9d2e9;
+}
+
+.jumbotron {
+    display: flex;
     background-image: url("images/backgroundweb.jpg");
-    margin-bottom: 10em;
+    background-size: cover;
 }
 
 .title-name {
