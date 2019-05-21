@@ -4,7 +4,6 @@ body {
 
 .jumbotron {
     display: flex;
-    align-items: center;
     background-image: url("images/backgroundweb.jpg");
     background-size: cover;
 }
