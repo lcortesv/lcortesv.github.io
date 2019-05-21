@@ -9,13 +9,13 @@
     date = 2019-05-21T10:46:56-07:00 #the date the file was created
 
     
-    shortDescription = "Here's a 5 word description"
+    shortDescription = "Thoughts on a birthmark myth."
     projectVideo = ""
     #Project video is just the unique part of the URL  
     # For example, if the link is https://vimeo.com/285189099 then the unique part is  285189099
     projectVideoType = ""
     #Enter "youtube" or "vimeo". You can add other video types as well by editing single.html 
-    projectImage = ""
+    projectImage = "thegirlwf_2.jpg"
     #Enter the filename only. For example, "metropolis_album.jpg" 
     #This image should be saved in the project folder with the name of your project 
     projectImageAltText = ""
