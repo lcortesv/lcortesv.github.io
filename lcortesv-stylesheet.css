@@ -10,6 +10,7 @@ body {
 }
 
 .jumbotron h1 {
+    text-align: center;
     font-family: 'Montserrat', sans-serif;
     color: #ff6422;
     font-size: 5em;
@@ -17,6 +18,7 @@ body {
 }
 
 .jumbotron h2 {
+    text-align: center;
     font-family: 'Montserrat Subrayada', sans-serif;
     color: #595959;
     font-size: 3em;
@@ -24,6 +26,7 @@ body {
 }
 
 .title-display {
+    align-items: center;
     margin: 5em;
     padding: 3em;
     box-sizing: border-box;
