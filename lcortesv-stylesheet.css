@@ -24,7 +24,7 @@ body {
     margin: 0 0 4em;
 }
 
-.title-display {
+.jumbotron .title-display {
     align-items: center;
     margin: 5em;
     padding: 3em;
