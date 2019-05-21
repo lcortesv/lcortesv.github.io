@@ -26,11 +26,9 @@ body {
 }
 
 .title-display {
-    align-items: center;
     margin: 5em;
     padding: 3em;
     box-sizing: border-box;
     background: #ffffff;
     border: dotted #000000;
-    display: flex;
 }
