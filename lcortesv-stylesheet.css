@@ -2,13 +2,13 @@ body {
     background-color: #d9d2e9;
 }
 
-.jumbotron {
+.cover {
     display: flex;
     background-image: url("images/backgroundweb.jpg");
     background-size: cover;
 }
 
-.jumbotron h1 {
+.title-name {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     color: #ff6422;
@@ -16,7 +16,7 @@ body {
     margin: 0;
 }
 
-.jumbotron h2 {
+.sub-title {
     text-align: center;
     font-family: 'Montserrat Subrayada', sans-serif;
     color: #595959;
@@ -24,7 +24,7 @@ body {
     margin: 0 0 4em;
 }
 
-.jumbotron .title-display {
+.title-display {
     align-items: center;
     margin: 5em;
     padding: 3em;
