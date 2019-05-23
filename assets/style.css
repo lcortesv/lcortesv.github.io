@@ -11,3 +11,6 @@
 .card-body a:hover{ /* changes the style of a ON HOVER and only when it's inside of card-body */
     color: blueviolet;
 }
+.blue-text {
+    color: blue;
+}
