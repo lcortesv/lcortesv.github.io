@@ -1,4 +1,8 @@
 /* for card layout */
+body{
+    background-color: #bdb8c7;
+}
+
 .gallery-row {
     margin-bottom: 2rem;
 }
@@ -12,5 +16,6 @@
     color: blueviolet;
 }
 .blue-text {
-    color: blue;
+    color: white;
+    text-align: center;
 }

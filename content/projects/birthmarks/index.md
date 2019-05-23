@@ -23,8 +23,7 @@
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+A birthmark indicates how you died in your previous life. Or so, that is how my mother told me the myth goes. In Spanish, a birthmark is called a lunar or a mancha (a stain). Like the impact marks on the moon or a stain on a white shirt, this piece wonders about the past behind each mark.
 
 
 
