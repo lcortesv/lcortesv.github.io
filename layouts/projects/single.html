@@ -4,11 +4,13 @@
     {{ partial "head.html" . }}
     {{/*  imports "head.html" from the partials/ folder in layouts/  */}}
     {{/*  the second argument is the context for variables in "head.html" and using "." means use the same variable namespace as this document  */}}
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat+Subrayada" rel="stylesheet">
 </head>
 <body>
     {{ partial "navbar.html" (dict "context" . "originPage" "project") }}
     <div class="container">
-        <h1>{{ .Title }}</h1>
+        <h1 class= "image-title">{{ .Title }}</h1>
         
         {{/*  Each project has either a project image or a project video  */}}
         {{/*  The code below checks if there's a project video, and if so checks the type  */}}
@@ -39,12 +41,10 @@
         {{ end }}
         {{ end }}
 
-        <div class= blue-text>
         {{ .Content }}
         {{/*  You can add more images and videos in the content as well! 
             Do that in the .md file for the project  */}}
-        </div>
-     
+
     </div>
     
 </body>
