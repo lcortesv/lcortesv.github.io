@@ -23,7 +23,9 @@
 +++
 
 <div class= "container">
-    <img src= "thegirlwf_2.jpg">
+    <div class= "girl-center">
+        <img src= "thegirlwf_2.jpg">
+    </div>
 </div>
 
 <div class= "display-text">

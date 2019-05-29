@@ -25,7 +25,6 @@ body{
 /* START */
 
 .container img {
-    align-items: center;
     max-width: 100%;
     height: auto;
     padding: 1.5em;
@@ -33,37 +32,12 @@ body{
     background-color:#021a40;
 }
 
-/*
-.image-one {
-    max-width: 100%;
-    height: auto;
-    padding:1em;
-    border:1em solid #ffa27a;
-    background-color:#021a40;
-}
-*/
-
-.girl-text {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1em;
-    color: white;
+.container .girl-image {
     text-align: center;
-    margin: 2em;
 }
 
-.image-title {
-    width: 100%;
+.container .image-test {
     text-align: center;
-    font-family: 'Montserrat Subrayada', sans-serif;
-    color: white;
-}
-
-.title-display {
-    margin: 5em 1em 1em 1em;
-    padding: 1em;
-    box-sizing: border-box;
-    background: #ffa27a;
-    display: flex;
 }
 
 .display-text {
@@ -74,6 +48,30 @@ body{
     display: flex;
 }
 
+.girl-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    color: white;
+    text-align: center;
+    margin: 2em;
+}
+
+.title-display {
+    margin: 5em 10em 1em 10em;
+    padding: 1em;
+    box-sizing: border-box;
+    background: #ffa27a;
+    display: flex;
+}
+
+.image-title {
+    width: 100%;
+    text-align: center;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: white;
+    font-size: 3vw;
+
+}
 
 .nav-name {
     font-family: 'Montserrat', sans-serif;
