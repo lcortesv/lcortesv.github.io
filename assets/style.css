@@ -7,6 +7,12 @@ body{
     margin-bottom: 2rem;
 }
 
+
+/* for small text box in portfolio page*/
+.card-body {
+    background-color: white;
+}
+
 .card-body a{ /* changes the style of a only when it's inside of card-body */
     text-decoration: none;
     color: black;
@@ -19,48 +25,54 @@ body{
 /* START */
 
 .container img {
+    align-items: center;
     max-width: 100%;
     height: auto;
-    margin-top: 5em;
-    margin-bottom: 5em;
     padding:1em;
     border:1em solid #ffa27a;
     background-color:#021a40;
 }
 
+/*
+.image-one {
+    max-width: 100%;
+    height: auto;
+    padding:1em;
+    border:1em solid #ffa27a;
+    background-color:#021a40;
+}
+*/
+
 .girl-text {
     font-family: 'Montserrat', sans-serif;
-    font-size: 2em;
-    margin-top: 1em;
-    margin-bottom: 5em;
-    margin-right: 3em;
-    margin-left: 3em;
+    font-size: 1em;
     color: white;
     text-align: center;
+    margin: 2em;
 }
 
 .girl-title {
     font-family: 'Montserrat Subrayada', sans-serif;
-    text-align: center;
     color: white;
-}
-
-/*
-.image-title {
-    font-family: 'Montserrat Subrayada', sans-serif;
     text-align: center;
+    margin: 1em;
 }
 
-.text-display {
-    margin: 5em;
-    padding: 3em;
+
+.container .image-title {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: white;
+    text-align: center;
+    margin: 1em;
+}
+
+.display-text {
+    margin: 1em;
     box-sizing: border-box;
-    background: #ff6422;
-    border: dotted #000000;
+    background: #ffa27a;
     display: flex;
 }
 
-*/
 
 .nav-name {
     font-family: 'Montserrat', sans-serif;

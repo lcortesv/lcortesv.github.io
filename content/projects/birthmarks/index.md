@@ -2,7 +2,7 @@
     #this is the "front matter" of the template of a project. It's the variables associated with the file
     #this portion is written in TOML (Tom's Obvious Minimal Language)
     
-    title = ""
+    title = "Birthmarks"
     #replace takes the filename and replaces all hyphens with spaces so that when it appears on your page, it's using spaces. The filename is used in the URL and URLs can't have spaces so use hyphen in the filename.
     #title converts to title-case (using capital letters for principal words only)
     
@@ -22,11 +22,12 @@
     #Alt text is the text that gets read by screenreaders for accessibility (typically for the visually impaired) 
 +++
 
-<h1 class= "girl-title">
-Birthmarks
-</h1>
+<div class= "container">
+    <img src= "thegirlwf_2.jpg">
+</div>
 
-
-<h1 class= "girl-text">
-A birthmark indicates how you died in your previous life. Or so, that is how my mother told me the myth goes. In Spanish, a birthmark is called a lunar or a mancha (a stain). Like the impact marks on the moon or a stain on a white shirt, this piece wonders about the past behind each mark.
-</h1>
+<div class= "display-text">
+    <h1 class= "girl-text">
+        A birthmark indicates how you died in your previous life. Or so, that is how my mother told me the myth goes. In Spanish, a birthmark is called a lunar or a mancha (a stain). Like the impact marks on the moon or a stain on a white shirt, this piece wonders about the past behind each mark.
+    </h1>
+</div>
