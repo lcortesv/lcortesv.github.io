@@ -10,8 +10,9 @@
 <body>
     {{ partial "navbar.html" (dict "context" . "originPage" "project") }}
     <div class="container">
-        <h1 class= "image-title">{{ .Title }}</h1>
-        
+        <div class= "title-display">
+            <h1 class= "image-title">{{ .Title }}</h1>
+        </div>
         {{/*  Each project has either a project image or a project video  */}}
         {{/*  The code below checks if there's a project video, and if so checks the type  */}}
         {{/*  Youtube videos and Vimeo videos are handled differently. If you have another video type 

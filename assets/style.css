@@ -51,19 +51,19 @@ body{
     margin: 2em;
 }
 
-.girl-title {
+.image-title {
+    width: 100%;
+    text-align: center;
     font-family: 'Montserrat Subrayada', sans-serif;
     color: white;
-    text-align: center;
-    margin: 1em;
+    margin: .5em;
 }
 
-
-.container .image-title {
-    font-family: 'Montserrat Subrayada', sans-serif;
-    color: white;
-    text-align: center;
+.title-display {
     margin: 1em;
+    box-sizing: border-box;
+    background: #ffa27a;
+    display: flex;
 }
 
 .display-text {
