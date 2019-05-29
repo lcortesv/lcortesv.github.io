@@ -28,8 +28,8 @@ body{
     align-items: center;
     max-width: 100%;
     height: auto;
-    padding:1em;
-    border:1em solid #ffa27a;
+    padding: 1.5em;
+    border: 1.5em solid #ffa27a;
     background-color:#021a40;
 }
 
@@ -56,18 +56,19 @@ body{
     text-align: center;
     font-family: 'Montserrat Subrayada', sans-serif;
     color: white;
-    margin: .5em;
 }
 
 .title-display {
-    margin: 1em;
+    margin: 5em 1em 1em 1em;
+    padding: 1em;
     box-sizing: border-box;
     background: #ffa27a;
     display: flex;
 }
 
 .display-text {
-    margin: 1em;
+    padding: .5em;
+    margin: 1em 1em 5em 1em;
     box-sizing: border-box;
     background: #ffa27a;
     display: flex;
