@@ -20,12 +20,24 @@
     #This image should be saved in the project folder with the name of your project 
     projectImageAltText = ""
     #Alt text is the text that gets read by screenreaders for accessibility (typically for the visually impaired) 
+    #<div class="container">
+        #<div class= "title-display">
+            #<h1 class= "image-title">Birthmarks</h1>
+        #</div>
+    #</div>
+
 +++
 
 <div class= "container">
-    <div class= "girl-center">
+    <div class= "girl-image">
         <img src= "thegirlwf_2.jpg">
     </div>
+</div>
+
+<div class="container">
+        <div class= "title-display">
+            <h1 class= "image-title">Birthmarks</h1>
+        </div>
 </div>
 
 <div class= "display-text">
