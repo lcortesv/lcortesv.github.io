@@ -4,6 +4,7 @@
     {{ partial "head.html" . }}
     {{/*  imports "head.html" from the partials/ folder in layouts/  */}}
     {{/*  the second argument is the context for variables in "head.html" and using "." means use the same variable namespace as this document  */}}
+
 </head>
 <body>
     {{ partial "navbar.html" (dict "context" . "originPage" "aboutMe") }}
@@ -20,10 +21,7 @@
             </div>
         </div>
 
-    </div>
-
-    
-    
+    </div>    
 
     {{ partial "scripts.html" }}
 </body>

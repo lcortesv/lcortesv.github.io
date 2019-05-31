@@ -5,7 +5,12 @@
     {{/*  imports "head.html" from the partials/ folder in layouts/  */}}
     {{/*  the second argument is the context for variables in "head.html" and using "." 
     means use the same variable namespace as this document  */}}
-
+    <style>
+            .jumbotron {
+                background-image: url("/background_web.jpg");
+                background-size: cover;
+            }
+    </style>
 </head>
 <body>
     {{ partial "navbar.html" (dict "context" . "originPage" "home") }}
