@@ -2,7 +2,7 @@
     #this is the "front matter" of the template of a project. It's the variables associated with the file
     #this portion is written in TOML (Tom's Obvious Minimal Language)
     
-    title = "Party"
+    title = "PARTY"
     #replace takes the filename and replaces all hyphens with spaces so that when it appears on your page, it's using spaces. The filename is used in the URL and URLs can't have spaces so use hyphen in the filename.
     #title converts to title-case (using capital letters for principal words only)
     
@@ -23,22 +23,20 @@
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<div class= "container">
+    <div class= "girl-image">
+        <img src= "LuceroCortes2.jpg">
+    </div>
+</div>
 
+<div class="container">
+        <div class= "title-display">
+            <h1 class= "image-title">PARTY</h1>
+        </div>
+</div>
 
-
-
-a new line in markdown will not be displayed in the browser.
-\
-\
-\ 
-the lines above this line showed up because they started with backslash (NOT A NORMAL SLASH) \
-  
-*here's some "emphasized" text, which defaults to italics but you can make it anythign you want in css*
-**here's some "strong" text, which defaults to bold but you can make it anything you want in css**
-
-Below is a list
-* asterisks make bullets
-- hyphens make bullets
-+ plusses make bullets
-* you can choose!
+<div class= "display-text">
+    <h1 class= "girl-text">
+        Making this piece, I thought simply of the word “party.” I mind kept coming to the loudness and brightness of a party. Going off this idea, I made a collage out of five images to create a nightclub-like ambience.
+    </h1>
+</div>

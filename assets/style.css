@@ -10,19 +10,53 @@ body{
 
 /* for small text box in portfolio page*/
 .card-body {
-    background-color: white;
+    width: 100%;
+    text-align: center;
+    background-color: #ffa27a;
+    margin-top: 8em;
+    margin-left: .5em;
 }
 
-.card-body a{ /* changes the style of a only when it's inside of card-body */
+/*
+.card-body a{ {{ changes the style of a only when it's inside of card-body }}
     text-decoration: none;
     color: black;
 }
+*/
 
 .card-body a:hover{ /* changes the style of a ON HOVER and only when it's inside of card-body */
-    color: rgb(39, 0, 75);
+    color: #ff6422;
 }
 
 /* START */
+.card-title {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: white;
+}
+
+.card-text {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.scrolling-layout-row{
+    margin-top: 2.5em;
+    padding-bottom: 5rem;
+}
+
+.scrolling-layout-row:nth-of-type(odd){
+    background-color: #bdb8c7;
+}
+
+.scrolling-layout-row:nth-of-type(even){
+    background-color: #ffa27a;
+}
+
+.scrolling-layout-project-image{
+    margin-right:auto;
+    margin-left:auto;
+    display:block;
+}
 
 .container img {
     max-width: 100%;
@@ -72,14 +106,14 @@ body{
     font-size: 3vw;
 }
 
-.jumbotron {
+.display-card {
     width: 100%;
     text-align: center;
     display: flex;
     margin: 0;
 }
 
-.jumbotron h1 {
+.display-card h1 {
     width: 100%;
     text-align: center;
     font-family: 'Montserrat', sans-serif;
@@ -109,13 +143,65 @@ body{
     justify-content: center;
 }
 
-.jumbotron .col {
+.display-card .col {
     text-align: center;
 }
 
-.jumbotron h2 {
+.display-card h2 {
     font-family: 'Montserrat Subrayada', sans-serif;
     color: #595959;
     font-size: 2vw;
     margin: 0;
+}
+
+.container iframe {
+    max-width: 100%;
+    height: auto;
+    padding: 1.5em;
+    border: 1.5em solid #ffa27a;
+    background-color:#ffa27a;
+}
+
+.container .video-page {
+    text-align: center;
+    margin-top: 8em;
+}
+
+.display-text-video {
+    margin: 0 1em 12em 1em;
+    padding: 0 2em 3em 2em;
+    box-sizing: border-box;
+    background: #ffa27a;
+    display: flex;
+}
+
+.title-display-video {
+    margin: 0;
+    padding: 1em 0 0 0;
+    box-sizing: border-box;
+    background: #ffa27a;
+    display: flex;
+}
+
+.about-title {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: white;
+    font-size: 3vw;
+    text-align: center;
+}
+
+.about-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    color: white;
+    text-align: center;
+}
+
+.about-display {
+    margin: 5em 1em 12em 1em;
+    padding: 3em 2em 3em 2em;
+    box-sizing: border-box;
+    border: dotted black;
+    background: #b4a7d6;
+    display: inline-block;
 }
