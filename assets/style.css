@@ -10,22 +10,22 @@ body{
 
 /* for small text box in portfolio page*/
 .card-body {
-    width: 100%;
+    width: auto;
     text-align: center;
     background-color: #ffa27a;
-    margin-top: 8em;
+    margin-top: 8.5em;
     margin-left: .5em;
+    padding: 2em;
 }
 
-/*
-.card-body a{ {{ changes the style of a only when it's inside of card-body }}
-    text-decoration: none;
+
+.card-body a{
     color: black;
 }
-*/
+
 
 .card-body a:hover{ /* changes the style of a ON HOVER and only when it's inside of card-body */
-    color: #ff6422;
+    color: #0400dd;
 }
 
 /* START */
@@ -53,6 +53,7 @@ body{
 }
 
 .scrolling-layout-project-image{
+    margin-top: 1em;
     margin-right:auto;
     margin-left:auto;
     display:block;
@@ -127,10 +128,10 @@ body{
 
 .brand-display {
     width: 100%;
-    margin-top: 3em;
+    margin-top: 2em;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 3em;
+    margin-bottom: 2em;
     padding: 3em;
     box-sizing: border-box;
     background: #ffffff;
