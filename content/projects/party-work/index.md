@@ -37,6 +37,6 @@
 
 <div class= "display-text">
     <h1 class= "girl-text">
-        Making this piece, I thought simply of the word “party.” I mind kept coming to the loudness and brightness of a party. Going off this idea, I made a collage out of five images to create a nightclub-like ambience.
+        Making this piece, I thought simply of the word “party.” My mind kept coming to the loudness and brightness of a party. Going off this idea, I made a collage out of five images to create a nightclub-like ambience.
     </h1>
 </div>
