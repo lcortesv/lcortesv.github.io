@@ -3,79 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/projects/aggie-now-nerf/</loc>
+    <loc>/projects/aggie-now-nerf/</loc>
     <lastmod>2019-06-04T01:43:12-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2019-06-04T01:43:12-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>/</loc>
     <lastmod>2019-06-04T01:43:12-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/projects/creation-outworld/</loc>
+    <loc>/projects/</loc>
+    <lastmod>2019-06-04T01:43:12-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/projects/creation-outworld/</loc>
     <lastmod>2019-06-04T01:42:48-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/season/</loc>
+    <loc>/projects/season/</loc>
     <lastmod>2019-06-04T01:42:19-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/into-mexico/</loc>
+    <loc>/projects/into-mexico/</loc>
     <lastmod>2019-06-04T01:39:53-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/party-work/</loc>
+    <loc>/projects/party-work/</loc>
     <lastmod>2019-05-30T10:06:31-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/birthmarks/</loc>
+    <loc>/projects/birthmarks/</loc>
     <lastmod>2019-05-21T10:46:56-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about-me/</loc>
+    <loc>/about-me/</loc>
     <lastmod>2019-05-19T17:03:24-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/tightrope/</loc>
+    <loc>/projects/tightrope/</loc>
     <lastmod>2019-05-19T17:03:04-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/dirty-computer/</loc>
+    <loc>/projects/dirty-computer/</loc>
     <lastmod>2019-05-19T17:02:36-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/yoga/</loc>
+    <loc>/projects/yoga/</loc>
     <lastmod>2019-05-19T17:02:30-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/archandroid/</loc>
+    <loc>/projects/archandroid/</loc>
     <lastmod>2019-05-19T17:02:23-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/electric-lady/</loc>
+    <loc>/projects/electric-lady/</loc>
     <lastmod>2019-05-19T17:02:13-07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/metropolis/</loc>
+    <loc>/projects/metropolis/</loc>
     <lastmod>2019-05-19T01:12:18-07:00</lastmod>
   </url>
   

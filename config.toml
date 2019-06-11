@@ -1,4 +1,0 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "Lucero Cortes Vitervo"
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
