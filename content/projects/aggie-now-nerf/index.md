@@ -33,4 +33,3 @@
         This video was made for the YouTube series Aggie NOW Tries. Aggie NOW Tries seeks events and clubs in and around Davis that involves UCD students. For this particular episode, I edited all footage taken of the Davis Nerf Club. Meant to inform and interest students, this video was shared all over Aggie Studio’s social platforms and the Davis Nerf Club’s Facebook page.
     </h1>
 </div>
-
