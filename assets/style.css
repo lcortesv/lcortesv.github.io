@@ -30,8 +30,12 @@ body{
 
 /* START  START START */
 .card-title {
+    text-align: center;
+    width: 100%;
     font-family: 'Montserrat Subrayada', sans-serif;
     color: white;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .card-text {
@@ -104,7 +108,7 @@ body{
     text-align: center;
     font-family: 'Montserrat Subrayada', sans-serif;
     color: white;
-    font-size: 3vw;
+    font-size: 4vw;
 }
 
 .display-card {
@@ -188,7 +192,7 @@ body{
 .about-title {
     font-family: 'Montserrat Subrayada', sans-serif;
     color: white;
-    font-size: 3vw;
+    font-size: 3.5vw;
     text-align: center;
 }
 
@@ -204,10 +208,36 @@ body{
     margin-top: 5em;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 12em;
-    padding: 5em;
+    padding: 3em;
     box-sizing: border-box;
     border: dotted black;
     background: #b4a7d6;
+    display: block;
+}
+
+.contact-title {
+    font-family: 'Montserrat Subrayada', sans-serif;
+    color: white;
+    font-size: 1.5vw;
+    text-align: center;
+}
+
+.contact-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em;
+    color: white;
+    text-align: center;
+}
+
+.contact-display {
+    width: 100%;
+    margin-top: 5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 12em;
+    padding: 1em 1em 0 1em;
+    box-sizing: border-box;
+    border: dotted black;
+    background: #776d92;
     display: block;
 }
